@@ -19,5 +19,6 @@ public class Day1 {
 			a=c;
 		}
 		System.out.println(sumfib);
+		x.close();
 	}
 }
