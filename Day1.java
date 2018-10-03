@@ -7,7 +7,8 @@
 
 import java.util.Scanner;
 public class Day1 {
-	public static void main(String[] args) {
+	public static void main(String[] args) //used the main funcion
+	{
 		Scanner x = new Scanner(System.in);
 		int k = x.nextInt();
 		int sumfib=0;
